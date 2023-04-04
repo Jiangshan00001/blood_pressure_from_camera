@@ -1,0 +1,5 @@
+numpy
+scipy
+scikit-learn
+opencv-python
+PyQt5
